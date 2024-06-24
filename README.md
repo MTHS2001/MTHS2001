@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Desenvolvimento da Empresa
 - 📫 How to reach me WhatApp 19998752252, email: matheusisaias123@outlook.com.br
-- 😄 Pronouns: He/His
+- 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Achava legal ter aparelho e depois que coloquei torcia para tirar 
 
 <!---
