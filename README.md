@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matheus Isaias Silva Moraes
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Estagio
 - 💞️ I’m looking to collaborate on Desenvolvimento da Empresa
 - 📫 How to reach me WhatApp 19998752252, email: matheusisaias123@outlook.com.br
 - 😄 Pronouns: He/His
