@@ -1,5 +1,1 @@
-- 👋 Hello World!
----------------------------------------------------------------------------
-- Hi, I'm Matheus! I am a systems analysis student
-- I'm looking for my first job opportunity in the technology field
-- My dream is to one day work as Executive Ti Manager in a large company
+Estudante de Ciência da Computação | Sistemas Embarcados • IoT • IA | Projetos com ESP32 e sensores
